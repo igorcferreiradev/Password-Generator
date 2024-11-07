@@ -1,16 +1,16 @@
 # Password-Generator🔑
 
-A simple and secure password generator designed to create strong, random passwords. 
-This tool allows users to specify the length and complexity of the password, ensuring it meets security standards for various applications. 
+A simple and secure password generator designed to create strong, random passwords.<br>
+This tool allows users to specify the length and complexity of the password, ensuring it meets security standards for various applications.<br>
 To guarantee a high degree of unpredictability, the generated passwords are a blend of uppercase, lowercase, numbers, and special characters. 
 Ideal for anyone aiming to improve and enhance their online security by creating passwords that are hard to figure out or decipher.
 
 Features
 
-    Random Password Generation: Creates secure and random passwords based on a combination of uppercase, lowercase, numbers, and symbols.
-    Customizable Length: Generates passwords of a defined length (currently set to 20 characters).
-    Copy to Clipboard: Easily copy your generated password with a click of a button.
-    User-friendly Interface: Minimalistic design with intuitive functionality.
+    Random Password Generation: Generates strong, random passwords using a mix of uppercase letters, lowercase letters, numbers, and special characters.
+    Customizable Length: Allows you to specify the password length (currently set to 20 characters by default).
+    Easy Copy to Clipboard: One-click button to copy the generated password to your clipboard.
+    User-friendly Interface: Simple, clean design for an intuitive user experience.
 
 How to Use
 
