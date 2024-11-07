@@ -25,13 +25,7 @@ Technology Stack
 
 Installation
 
-To use this project locally:
-
-    Clone this repository to your local machine.
-
-    git clone https://github.com/your-username/password-generator.git
-
-    Open the index.html file in your browser to start using the generator.
+    If you’d like to use this tool offline, download or clone this repository and open index.html in your browser.
 
 Contributing
 
