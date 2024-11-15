@@ -157,6 +157,8 @@ button:active {
     body {
         padding: 10px;
         padding-bottom: 0;
+        height: 100vh;
+
     }
 
     .container {
