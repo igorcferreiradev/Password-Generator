@@ -1,4 +1,4 @@
-# 🔑 Password-Generator
+#  <h1 align="center">🔑 Password-Generator
 
 A simple and secure **password generator** designed to create strong, random passwords.  
 This tool allows users to specify the length and complexity of the password, ensuring it meets security standards for various applications.  
